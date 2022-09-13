@@ -1,0 +1,15 @@
+E:\Projects\RDO App\RDO\RDO.Services\bin\Debug\netcoreapp3.1\RDO.Services.deps.json
+E:\Projects\RDO App\RDO\RDO.Services\bin\Debug\netcoreapp3.1\RDO.Services.dll
+E:\Projects\RDO App\RDO\RDO.Services\bin\Debug\netcoreapp3.1\RDO.Services.pdb
+E:\Projects\RDO App\RDO\RDO.Services\bin\Debug\netcoreapp3.1\RDO.Domian.dll
+E:\Projects\RDO App\RDO\RDO.Services\bin\Debug\netcoreapp3.1\RDO.Infrastructure.dll
+E:\Projects\RDO App\RDO\RDO.Services\bin\Debug\netcoreapp3.1\RDO.Domian.pdb
+E:\Projects\RDO App\RDO\RDO.Services\bin\Debug\netcoreapp3.1\RDO.Infrastructure.pdb
+E:\Projects\RDO App\RDO\RDO.Services\obj\Debug\netcoreapp3.1\RDO.Services.csproj.AssemblyReference.cache
+E:\Projects\RDO App\RDO\RDO.Services\obj\Debug\netcoreapp3.1\RDO.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\RDO App\RDO\RDO.Services\obj\Debug\netcoreapp3.1\RDO.Services.AssemblyInfoInputs.cache
+E:\Projects\RDO App\RDO\RDO.Services\obj\Debug\netcoreapp3.1\RDO.Services.AssemblyInfo.cs
+E:\Projects\RDO App\RDO\RDO.Services\obj\Debug\netcoreapp3.1\RDO.Services.csproj.CoreCompileInputs.cache
+E:\Projects\RDO App\RDO\RDO.Services\obj\Debug\netcoreapp3.1\RDO.Services.csproj.CopyComplete
+E:\Projects\RDO App\RDO\RDO.Services\obj\Debug\netcoreapp3.1\RDO.Services.dll
+E:\Projects\RDO App\RDO\RDO.Services\obj\Debug\netcoreapp3.1\RDO.Services.pdb

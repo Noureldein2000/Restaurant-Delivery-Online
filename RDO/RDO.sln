@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDO.API", "RDO.API\RDO.API.csproj", "{6960095F-E740-4412-85A8-DF2366EA50BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIs", "APIs", "{E21F52C9-F0A3-4434-AC32-B97F14CB8148}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SPA", "SPA", "{A5FD035F-2881-4207-AC21-B35B06B09B7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDO.Domian", "RDO.Domian\RDO.Domian.csproj", "{00F409BE-8AB5-4BB6-99DB-4F3105699E23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDO.Services", "RDO.Services\RDO.Services.csproj", "{954D68A8-BF5C-455E-A309-F6E0F4656D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDO.Infrastructure", "RDO.Infrastructure\RDO.Infrastructure.csproj", "{083C7D22-4E72-4D55-BD6D-23300401827A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6960095F-E740-4412-85A8-DF2366EA50BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6960095F-E740-4412-85A8-DF2366EA50BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6960095F-E740-4412-85A8-DF2366EA50BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6960095F-E740-4412-85A8-DF2366EA50BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F409BE-8AB5-4BB6-99DB-4F3105699E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F409BE-8AB5-4BB6-99DB-4F3105699E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F409BE-8AB5-4BB6-99DB-4F3105699E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F409BE-8AB5-4BB6-99DB-4F3105699E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954D68A8-BF5C-455E-A309-F6E0F4656D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954D68A8-BF5C-455E-A309-F6E0F4656D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954D68A8-BF5C-455E-A309-F6E0F4656D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954D68A8-BF5C-455E-A309-F6E0F4656D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083C7D22-4E72-4D55-BD6D-23300401827A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083C7D22-4E72-4D55-BD6D-23300401827A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083C7D22-4E72-4D55-BD6D-23300401827A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083C7D22-4E72-4D55-BD6D-23300401827A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6960095F-E740-4412-85A8-DF2366EA50BF} = {E21F52C9-F0A3-4434-AC32-B97F14CB8148}
+		{00F409BE-8AB5-4BB6-99DB-4F3105699E23} = {E21F52C9-F0A3-4434-AC32-B97F14CB8148}
+		{954D68A8-BF5C-455E-A309-F6E0F4656D54} = {E21F52C9-F0A3-4434-AC32-B97F14CB8148}
+		{083C7D22-4E72-4D55-BD6D-23300401827A} = {E21F52C9-F0A3-4434-AC32-B97F14CB8148}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A977665-1365-4665-A824-48A8B2CF8BEB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+E:\Projects\RDO App\RDO\RDO.Domian\bin\Debug\netcoreapp3.1\RDO.Domian.deps.json
+E:\Projects\RDO App\RDO\RDO.Domian\bin\Debug\netcoreapp3.1\RDO.Domian.runtimeconfig.json
+E:\Projects\RDO App\RDO\RDO.Domian\bin\Debug\netcoreapp3.1\RDO.Domian.runtimeconfig.dev.json
+E:\Projects\RDO App\RDO\RDO.Domian\bin\Debug\netcoreapp3.1\RDO.Domian.dll
+E:\Projects\RDO App\RDO\RDO.Domian\bin\Debug\netcoreapp3.1\RDO.Domian.pdb
+E:\Projects\RDO App\RDO\RDO.Domian\obj\Debug\netcoreapp3.1\RDO.Domian.csproj.AssemblyReference.cache
+E:\Projects\RDO App\RDO\RDO.Domian\obj\Debug\netcoreapp3.1\RDO.Domian.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\RDO App\RDO\RDO.Domian\obj\Debug\netcoreapp3.1\RDO.Domian.AssemblyInfoInputs.cache
+E:\Projects\RDO App\RDO\RDO.Domian\obj\Debug\netcoreapp3.1\RDO.Domian.AssemblyInfo.cs
+E:\Projects\RDO App\RDO\RDO.Domian\obj\Debug\netcoreapp3.1\RDO.Domian.csproj.CoreCompileInputs.cache
+E:\Projects\RDO App\RDO\RDO.Domian\obj\Debug\netcoreapp3.1\RDO.Domian.dll
+E:\Projects\RDO App\RDO\RDO.Domian\obj\Debug\netcoreapp3.1\RDO.Domian.pdb
+E:\Projects\RDO App\RDO\RDO.Domian\obj\Debug\netcoreapp3.1\RDO.Domian.genruntimeconfig.cache

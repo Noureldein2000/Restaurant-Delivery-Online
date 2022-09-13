@@ -1,0 +1,10 @@
+E:\Projects\RDO App\RDO\RDO.Infrastructure\bin\Debug\netcoreapp3.1\RDO.Infrastructure.deps.json
+E:\Projects\RDO App\RDO\RDO.Infrastructure\bin\Debug\netcoreapp3.1\RDO.Infrastructure.dll
+E:\Projects\RDO App\RDO\RDO.Infrastructure\bin\Debug\netcoreapp3.1\RDO.Infrastructure.pdb
+E:\Projects\RDO App\RDO\RDO.Infrastructure\obj\Debug\netcoreapp3.1\RDO.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\RDO App\RDO\RDO.Infrastructure\obj\Debug\netcoreapp3.1\RDO.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\RDO App\RDO\RDO.Infrastructure\obj\Debug\netcoreapp3.1\RDO.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\RDO App\RDO\RDO.Infrastructure\obj\Debug\netcoreapp3.1\RDO.Infrastructure.AssemblyInfo.cs
+E:\Projects\RDO App\RDO\RDO.Infrastructure\obj\Debug\netcoreapp3.1\RDO.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\RDO App\RDO\RDO.Infrastructure\obj\Debug\netcoreapp3.1\RDO.Infrastructure.dll
+E:\Projects\RDO App\RDO\RDO.Infrastructure\obj\Debug\netcoreapp3.1\RDO.Infrastructure.pdb
